@@ -1,0 +1,10 @@
+.node-persist/
+node_modules/
+SQL/guild_data/
+SQL/apex_data/
+
+
+*.sqlite
+package-lock.json
+config.json
+respond.js
