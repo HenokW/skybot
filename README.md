@@ -1,3 +1,6 @@
+## <p align="center"> NOTE: THIS PROJECT HASN'T BEEN MAINTAINED SINCE 2019 </p>
+___
+
 # That One Bot (skybot)
 **That One Bot** is a Discord bot using the [Discord.js](https://github.com/discordjs/discord.js) library, created for the [TOG Discord Server](https://discord.gg/AxcJEqh).
 This bot has a basic moderation implementation, visual profiles, music commands, Levels system, miscellaneous commands, economy along with casino based games, 
